@@ -1,0 +1,159 @@
+📝 Project Title:
+
+TryHackMe – Trooper: SOC Level 1
+
+🎯 Objective:
+
+Analyze a threat actor's Tactics, Techniques, and Procedures (TTPs) using OpenCTI and the MITRE ATT&CK Navigator.
+
+🛠️ Tools Used:
+
+OpenCTI
+
+MITRE ATT&CK Navigator
+
+❌ Skills Demonstrated:
+
+Cyber Threat Intelligence (CTI) analysis
+
+Threat Actor and TTP identification
+
+Visual mapping using MITRE ATT&CK
+
+1. Project Overview
+
+This project documents a cyber threat intelligence investigation conducted in a simulated SOC environment. The focus was on analyzing the TTPs of Tropic Trooper (APT X) and mapping their techniques using industry-standard frameworks and platforms.
+
+2. Task Breakdown
+
+✏️ Task 1: Identifying the Threat Actor
+
+⭕️ Objective:
+Identify the threat actor responsible for the USBferry malware campaign and understand their primary TTPs.
+
+⭕️ Method:
+
+Reviewed a threat advisory report linked in the TryHackMe Trooper room.
+
+Searched for "Tropic Trooper" in OpenCTI.
+
+Investigated their tactics: spear-phishing, lateral movement, and USB-based attacks.
+
+✅ Outcome:
+
+Identified Tropic Trooper (APT X), known for targeting government and military institutions.
+
+Collected screenshots showing Tropic Trooper’s profile and TTPs from OpenCTI.
+
+📸 Screenshot Space:
+
+
+
+✏️ Task 2: Investigating USBferry Malware
+
+⭕️ Objective:
+Analyze the USBferry malware and extract its related TTPs.
+
+⭕️ Method:
+
+Searched for “USBferry” in OpenCTI.
+
+Reviewed malware details, attack patterns, and indicators of compromise.
+
+Explored relationships tab for related techniques.
+
+✅ Outcome:
+Identified several MITRE ATT&CK techniques:
+
+T1091 – Replication Through Removable Media
+
+T1119 – Automated Collection
+
+T1082 – System Information Discovery
+
+T1120 – Peripheral Device Discovery
+
+📸 Screenshot Space:
+
+
+
+✏️ Task 3: Mapping to MITRE ATT&CK
+
+⭕️ Objective:
+Correlate identified techniques to MITRE ATT&CK and visualize them in Navigator.
+
+⭕️ Method:
+
+Created a custom MITRE Navigator layer.
+
+Mapped USBferry-related techniques.
+
+Annotated each technique with observations.
+
+✅ Outcome:
+Mapped techniques:
+
+T1082 – System Information Discovery
+
+T1120 – Peripheral Device Discovery
+
+T1091 – Replication Through Removable Media
+
+📸 Screenshot Space:
+
+
+
+3. Analysis and Reflection
+
+💡 Challenges Faced:
+
+Understanding how infected USBs reached air-gapped targets raised questions about victim behavior and security controls, prompting broader thinking about threat modeling.
+
+💡 Lessons Learned:
+
+TTPs must be understood in operational context.
+
+Platforms like OpenCTI and MITRE ATT&CK structure investigation.
+
+Mapping intel supports practical security strategy.
+
+💡 Relevance to SOC Analyst Role:
+
+Helps prioritize alerts and triage events.
+
+Connects indicators to real-world behaviors.
+
+Aids in building and refining detection rules.
+
+💡 Relevance to Penetration Testing:
+
+Informs realistic test scenarios.
+
+Emphasizes physical and behavioral attack vectors.
+
+Enhances red team exercises through TTP simulation.
+
+4. Conclusion
+
+💡 Summary:
+
+Identified Tropic Trooper as the actor behind USBferry.
+
+Mapped malware behavior to MITRE techniques.
+
+Learned key CTI and analytical skills applicable in SOC operations.
+
+💡 Skills Gained:
+
+Threat intelligence analysis
+
+Framework-based technique mapping
+
+Report structuring and documentation
+
+💡 Next Steps:
+
+Use findings to guide SOC playbook development.
+
+Incorporate these TTPs into simulated adversary emulation plans.
+

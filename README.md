@@ -10,7 +10,7 @@ A threat intelligence analysis project identifying the TTPs of Tropic Trooper (A
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/e81b1d70fdd7313b277b4d557ff440d315002c3d/Task%202%20-%20Investigate%20the%20Threat%20-%20USBferry%20-%20Peripheral%20Device%20Discovery%20Pt%202..png)
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/67f31a5887dcefc227114396b2d9c5bfc6cbef39/Task%203%20-%20T1082.png)
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/238974c0699c2a5e4cfd48761fa16771e4948ffd/Task%203%20-%20T1082%20Pt%202.png)
- ![Image Alt]()
+ ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/ac9bda776e60e435478da8bc748e1f430412427d/Task%203%20T1120.png)
  ![Image Alt]()
  ![Image Alt]()
  ![Image Alt]()

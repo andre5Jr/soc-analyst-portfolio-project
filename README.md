@@ -14,7 +14,7 @@ A threat intelligence analysis project identifying the TTPs of Tropic Trooper (A
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/0fd565e9bae58a23cdbfd9e5148dbaf186815864/Task%203%20-%20T1120%20Pt%202..png)
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/a200ce1701383eebf787944ea6b5a1cc1b11ab50/Task%203%20T1091..png)
  ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/9e9025c158923fb3ae6d249b19c090e1b942fb01/Task%203%20T1091%20Pt%202..png)
- ![Image Alt]()
+ ![Image Alt](https://github.com/andre5Jr/soc-analyst-portfolio-project/blob/9e9025c158923fb3ae6d249b19c090e1b942fb01/Task%203%20T1091%20Pt%203.png)
  ![Image Alt]()
  ![Image Alt]()
 
